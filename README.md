@@ -1,1 +1,4 @@
-# device_xiaomi_msm8953-common_NUC
+Copyright (C) 2017 - The LineageOS Project
+
+Common device tree for Xiaomi MSM8953 based devices
+==============
